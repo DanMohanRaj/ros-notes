@@ -1,7 +1,7 @@
-#ROS2
+# ROS2
 ## Project
-## build
-## environment
-## node
-## subscribe
-## publish
+## Build
+## Environment
+## Node
+## Subscribe
+## Publish
